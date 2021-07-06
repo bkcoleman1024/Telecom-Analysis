@@ -34,7 +34,7 @@ Examine the customer service calls.  Is better customer service needed?
 
 ## For More Information
 
-Please review the full analysis in [the Jupyter Notebook](./dsc-phase1-project-template.ipynb) or [the presentation](https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/Microsoft%20presentation.pdf).
+Please review the full analysis in [the Jupyter Notebook](./dsc-phase1-project-template.ipynb) or [the presentation](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/Presentation.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 
