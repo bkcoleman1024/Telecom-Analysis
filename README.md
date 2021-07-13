@@ -16,12 +16,12 @@ The data has been collected from Kaggle.  The dataset has the information from 3
 
 ## Methods
 
-This project focuses on why a customer may choose to leave a telecommunications company.  A certain amount of turnover is expected.    
+This project focuses on why a customer may choose to leave a telecommunications company.  A certain amount of turnover is expected.  There was an imbalance to the data.  I used SMOTE to address this issue.      
 
 
 ## Results
 
-The customers with the most service calls, total calls, and international plans are the ones most likely to leave.  The turnover rate for this company was 15% on average.  When the service calls increased the churn rated increased significantly.  The increase in the call time and having an international plan also increased the churn rate.
+The customers with the most service calls and total day charges are the ones most likely to leave.  The turnover rate for this company was 15% on average.  When the service calls increased the churn rated increased significantly.
 
 
 ## Next Steps
