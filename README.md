@@ -16,7 +16,11 @@ The data has been collected from Kaggle.  The dataset has the information from 3
 
 ## Methods
 
-This project focuses on why a customer may choose to leave a telecommunications company.  A certain amount of turnover is expected.  There was an imbalance to the data.  I used SMOTE to address this issue.      
+This project focuses on why a customer may choose to leave a telecommunications company.  A certain amount of turnover is expected.  There was an imbalance to the data.  I used SMOTE to address this issue.
+
+## Models
+
+There were four models that I used to test the training data, Logistic Regression, Decision Tree Classifier, Bagging Classifier, and Random Forest Classifier.  The Decision Tree Classifier provided the best results.
 
 
 ## Results
@@ -28,9 +32,9 @@ The customers with the most service calls and total day charges are the ones mos
 
 Test the model on a larger dataset.  
 
-Examine the churn rates after offering customers flat rates for calling plans.
+Examine the three states with the highest churn rates.  
 
-Examine the customer service calls.  Is better customer service needed?
+Examine the customer service calls.  Is better customer service needed?  Can an incentive be offered after a specific number of calls?
 
 ## For More Information
 
