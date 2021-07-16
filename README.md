@@ -34,6 +34,7 @@ Random Forest
 
 The Bagged Tree model provided the best results.  When the holdout data was used the false negatives were down to 2.2%.  This was down from 3% with the testing data.  This was an improved from the baseline model, Logistic Regression.  The confusion matrix for the Logistic Regression model shows that 4.6% of the predictions result in false negatives.  
 
+![image](https://user-images.githubusercontent.com/70072015/125891048-d4bc5f18-e5bc-48a6-9c6d-0a344c17dfe4.png)
 
 ## Next Steps
 
