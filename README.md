@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/70072015/125891305-04d87640-d7d5-4699-b07b-bcade08d84c9.png)
+
 # Syria Telecom Analysis
 
 **Author**: Bridget Coleman
