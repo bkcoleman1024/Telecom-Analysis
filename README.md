@@ -48,7 +48,7 @@ Based on the feature importance chart, total day minutes and having an internati
 
 ## For More Information
 
-Please review the full analysis in [the Jupyter Notebook](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/SyriaTelCustomers.ipynb) or [the presentation](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/Presentation.pdf).
+Please review the full analysis in [the Jupyter Notebook](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/Updated%20SyriaTel%20notebook.pdf) or [the presentation](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/Presentation.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 
