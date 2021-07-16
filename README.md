@@ -16,16 +16,21 @@ The data has been collected from Kaggle.  The dataset has the information from 3
 
 ## Methods
 
-This project focuses on why a customer may choose to leave a telecommunications company.  A certain amount of turnover is expected.  There was an imbalance to the data.  I used SMOTE to address this issue.
+The models were evaluated based on recall score and confusion matrices.  A false negative could be more costly to the company if customer is predicted to stay but ends up leaving.  
 
 ## Models
 
-There were four models that I used to test the training data, Logistic Regression, Decision Tree Classifier, Bagging Classifier, and Random Forest Classifier.  The Decision Tree Classifier provided the best results.
+There were five models that I used to test the training data 
+Logistic Regression
+K-nearest Neighbors
+Decision Tree
+Bagged Tree
+Random Forest  
 
 
 ## Results
 
-The customers with the most service calls and total day charges are the ones most likely to leave.  The turnover rate for this company was 15% on average.  When the service calls increased the churn rated increased significantly.
+The Bagged Tree model provided the best results.  When the holdout data was used the false negatives were down to 2.2%.  This was down from 3% with the testing data.  This was an improved from the baseline model, Logistic Regression.  The confusion matrix for the Logistic Regression model shows that 4.6% of the predictions result in false negatives.  
 
 
 ## Next Steps
@@ -35,6 +40,8 @@ Test the model on a larger dataset.
 Examine the three states with the highest churn rates.  
 
 Examine the customer service calls.  Is better customer service needed?  Can an incentive be offered after a specific number of calls?
+
+Based on the feature importance chart, total day minutes and having an international plan are factors for churn.
 
 ## For More Information
 
