@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/70072015/125891305-04d87640-d7d5-4699-b07b-bcade08d84c9.png)
 
+
 # Syria Telecom Analysis
 
 **Author**: Bridget Coleman
@@ -51,6 +52,8 @@ Based on the feature importance chart, total day minutes and having an internati
 Please review the full analysis in [the Jupyter Notebook](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/Updated%20SyriaTel.ipynb) or [the presentation](https://github.com/bkcoleman1024/Telecom-Analysis/blob/main/Presentation.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
+
+images - Fig. 1. Black towers during sunset - Maria Caruso  www.unsplash.com
 
 ## Repository Structure
 
